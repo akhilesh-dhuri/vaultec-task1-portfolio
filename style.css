@@ -82,7 +82,7 @@ body {
   }
   
   .contact a {
-    color: #ff6b6b; /* Accent Color */
+    color: #ff6b6b; 
     text-decoration: none;
     margin: 0 10px;
     transition: color 0.3s;
@@ -95,7 +95,7 @@ body {
   }
   
   .contact a:hover {
-    color: #d9534f; /* Slightly darker accent for hover */
+    color: #d9534f; 
   }
   
   h6 {
