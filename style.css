@@ -1,0 +1,108 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f0f4f8; 
+  }
+  
+  .header {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #eaeaea;
+  }
+  
+  .header img {
+    width: 25%;
+    border-radius:10px;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2.2em;
+    color: #3a506b; 
+  }
+  
+  .about-me {
+    font-style: italic;
+    color: #666;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    color: #3a506b; 
+    margin: 40px 20px 10px;
+    text-align: center;
+  }
+  
+  .title {
+    font-weight: bold;
+    margin: 20px 0 10px;
+    text-align: center;
+    color: #444;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  ul li {
+    background-color: #fff;
+    margin: 5px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  ul li:hover {
+    transform: translateY(-5px);
+  }
+  
+  .contact {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #fff;
+    border-top: 1px solid #eaeaea;
+    margin-top: 40px;
+  }
+  
+  .contact p {
+    font-size: 1.2em;
+    color: #444;
+    margin: 0;
+  }
+  
+  .contact a {
+    color: #ff6b6b; /* Accent Color */
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .contact a i {
+    margin-right: 5px;
+  }
+  
+  .contact a:hover {
+    color: #d9534f; /* Slightly darker accent for hover */
+  }
+  
+  h6 {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    color: #999;
+    border-top: 1px solid #eaeaea;
+    margin: 0;
+  }
